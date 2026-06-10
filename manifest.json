@@ -1,14 +1,14 @@
 {
   "name": "My Recipe Box",
   "short_name": "Recipe Box",
-  "start_url": "/recipe-box/",
-  "scope": "/recipe-box/",
+  "start_url": "/The-Recipe-Box/",
+  "scope": "/The-Recipe-Box/",
   "display": "standalone",
   "background_color": "#fdf8f2",
   "theme_color": "#b45309",
   "icons": [
     {
-      "src": "/recipe-box/icons/icon-recipe-192.png",
+      "src": "/The-Recipe-Box/icons/icon-recipe-192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
