@@ -1,14 +1,14 @@
 {
   "name": "My Recipe Box",
   "short_name": "Recipe Box",
-  "start_url": "/The-Pitch-Deck/recipes.html",
-  "scope": "/The-Pitch-Deck/recipes.html",
+  "start_url": "/recipe-box/",
+  "scope": "/recipe-box/",
   "display": "standalone",
   "background_color": "#fdf8f2",
   "theme_color": "#b45309",
   "icons": [
     {
-      "src": "/The-Pitch-Deck/icons/icon-recipe-192.png",
+      "src": "/recipe-box/icons/icon-recipe-192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
